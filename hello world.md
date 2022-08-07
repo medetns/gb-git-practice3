@@ -1,8 +1,12 @@
-Hello world!
+# first version control file
+
+## vydelenie teksta
 
 *kursiv.*
 
 **polujirnyi.**
+
+## lists
 
 * element 1
 * element 2
