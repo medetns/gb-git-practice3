@@ -18,3 +18,5 @@
 Getting Started with Version Control
 
 ### Change
+
+#### added commit with -am
