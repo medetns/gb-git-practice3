@@ -42,9 +42,9 @@
 Для удаления ветки ввести команду "git branch -d 'name branch'"
 
 
-*kursiv.*
+*kursiv.* или _kursiv_
 
-**polujirnyi.**
+**polujirnyi.** или __polujirnyi__
 
 ## lists
 
